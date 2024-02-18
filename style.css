@@ -292,7 +292,7 @@ textarea {
   .projects__row:last-child {
     margin-bottom: 0; }
   .projects__row-img-cont {
-    max-width: 75%;
+    max-width: 80%;
     overflow: hidden; }
   .projects__row-img {
     width: 100%;
