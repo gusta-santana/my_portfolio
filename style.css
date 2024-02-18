@@ -294,12 +294,6 @@ textarea {
   .projects__row-img-cont {
     max-width: 80%;
     overflow: hidden; }
-    @media only screen and (max-width: 56.25em) {
-      .projects__row-img-cont{
-      align-items: center;
-      max-width: 80%;
-      overflow: hidden; }
-    }
   .projects__row-img {
     width: 100%;
     display: block;
